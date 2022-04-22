@@ -1,3 +1,5 @@
 Dataset can be downloaded here -
 
-https://drive.google.com/drive/folders/14CQz5NPlPIcoZPO6aRWRbhsyPmAXnccx?usp=sharing, https://drive.google.com/drive/folders/14CYZZa0u0E-YLULDzRWpSui1LCplgZPC?usp=sharing
+test - https://drive.google.com/drive/folders/1YEqBNKbXKCagoBY49Eu09FnJmxZZFBMV?usp=sharing
+
+train - https://drive.google.com/drive/folders/1eWzqqGWN1ey0tLbfcSR2Pl9oPFBQe6FT?usp=sharing
